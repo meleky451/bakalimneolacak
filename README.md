@@ -1,2 +1,2 @@
 # bakalimneolacak
-hello hello
+merhaba merhaba 
